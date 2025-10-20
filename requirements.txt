@@ -4,5 +4,5 @@ opencv-contrib-python==4.10.0.84
 spatialmath-python>=1.1,<1.2
 roboticstoolbox-python>=1.1,<1.2
 roslibpy>=1.5
-pyrealsense2-macosx>=2.54
+pyrealsense2>=2.54
 websockets==10.4
